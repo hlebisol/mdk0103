@@ -5,4 +5,4 @@
 <img src="1.png" 
    height="600">
   <img src="2.png" 
-   height="600">
+   height="150">
